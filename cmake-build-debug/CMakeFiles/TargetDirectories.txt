@@ -1,0 +1,3 @@
+C:/Users/Professional/CLionProjects/C99standart/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Professional/CLionProjects/C99standart/cmake-build-debug/CMakeFiles/C99standart.dir
+C:/Users/Professional/CLionProjects/C99standart/cmake-build-debug/CMakeFiles/edit_cache.dir
